@@ -8,3 +8,6 @@
 
 https://github.com/KenyansaAmenya/Tic_Tac_Toe_Game/assets/100693771/7c1cd8f3-5413-4e44-9d82-30822d681583
 
+feel free to Star or Fork it and make your changes , then make pull request.
+
+I will appreciate your Changes and Review it 😄
